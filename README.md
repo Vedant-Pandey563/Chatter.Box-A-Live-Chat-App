@@ -1,2 +1,4 @@
 # Live-Chat-App
-A Live Chat Application that is a Full Stack Project
+Full Stack Project
+A Live Chat Application that has fully functional client and server.
+Locally Hosted.
